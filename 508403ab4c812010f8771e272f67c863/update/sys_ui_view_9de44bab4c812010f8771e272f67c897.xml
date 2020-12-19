@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>toppings</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-19 07:42:31</sys_created_on>
+        <sys_id>9de44bab4c812010f8771e272f67c897</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>toppings</sys_name>
+        <sys_package display_value="pizza" source="x_snc_pizza">508403ab4c812010f8771e272f67c863</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pizza">508403ab4c812010f8771e272f67c863</sys_scope>
+        <sys_update_name>sys_ui_view_9de44bab4c812010f8771e272f67c897</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-19 07:42:31</sys_updated_on>
+        <title>toppings</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

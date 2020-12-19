@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="c90f91924a362312001bdefae0f35d68" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-19 07:41:27</sys_created_on>
+        <sys_domain>c90f91924a362312001bdefae0f35d68</sys_domain>
+        <sys_domain_path>!!!/!!&amp;/</sys_domain_path>
+        <sys_id>29a407ab4c812010f8771e272f67c80e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pizza</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="pizza" source="x_snc_pizza">508403ab4c812010f8771e272f67c863</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pizza">508403ab4c812010f8771e272f67c863</sys_scope>
+        <sys_update_name>sys_app_application_29a407ab4c812010f8771e272f67c80e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-19 07:41:27</sys_updated_on>
+        <title>pizza</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
